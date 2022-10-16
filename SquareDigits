@@ -9,4 +9,4 @@ function squareDigits(n) {
   return result;
 }
 
-console.log(n)
+console.log(n)1
